@@ -1,10 +1,10 @@
 # femr_profile_encoding
 
 ---
-title: "Improved parallel imaging with N-periodic spatial banding patterns in bSSFP"<br>
-date: 2023-05-04<br>
-venue: ' Abstract for International Society for Magnetic Resonance in Medicine 2023'<br>
-citation:  Zimu Huo, Lorena Garcia-Foncillas, Krithika Balaji, Michael Mendoza, Neal K Bangerter, and Peter J Lally<br>
+Title: "Improved parallel imaging with N-periodic spatial banding patterns in bSSFP"<br>
+Date: 2023-05-04<br>
+Venue: ' Abstract for International Society for Magnetic Resonance in Medicine 2023'<br>
+Citation:  Zimu Huo, Lorena Garcia-Foncillas, Krithika Balaji, Michael Mendoza, Neal K Bangerter, and Peter J Lally<br>
 ---
 
 [Conference Abstract](https://submissions.mirasmart.com/ISMRM2024/Itinerary/PresentationDetail.aspx?evdid=7939)
