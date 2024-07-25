@@ -1,7 +1,7 @@
 # femr_profile_encoding
 
 ---
-title: "Improved parallel imaging with N-periodic spatial banding patterns in bSSFP"
+title: "Improved parallel imaging with N-periodic spatial banding patterns in bSSFP"<br>
 collection: publications
 permalink: /publication/2023-05-05-paper-title-number-8
 date: 2023-05-04
